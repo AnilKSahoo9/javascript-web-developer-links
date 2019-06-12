@@ -9,3 +9,7 @@ http://gitimmersion.com/lab_01.html
 ### Udacity
 Objects Fundamental
 https://www.udacity.com/course/object-oriented-javascript--ud711
+
+
+## Algorithms
+https://aleo23.github.io/posts/time-complexity/
