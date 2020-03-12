@@ -13,3 +13,6 @@ https://www.udacity.com/course/object-oriented-javascript--ud711
 
 ## Algorithms
 https://aleo23.github.io/posts/time-complexity/
+
+## Other helpful tutorials
+Regular Expression : https://github.com/ziishaned/learn-regex
